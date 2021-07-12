@@ -12,7 +12,7 @@
   "paths": {
     "/pets": {
       "get": {
-        "description": "markdown ![a](https://www.google.com/image.png'onload='alert(1))",
+        "description": "markdown2 [ ](http://a?p=[[/onclick=alert(0) .]])",
         "operationId": "findPets",
         "produces": [
           "application/json",
