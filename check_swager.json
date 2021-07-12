@@ -12,7 +12,7 @@
   "paths": {
     "/pets": {
       "get": {
-        "description": "markdown ![a](javascript:prompt(document.cookie))",
+        "description": "markdown ![a](javascript:prompt(document.cookie))\",
         "operationId": "findPets",
         "produces": [
           "application/json",
