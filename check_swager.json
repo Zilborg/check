@@ -1,11 +1,12 @@
 {
   "swagger": "2.0",
+  "basePath": "javascript:alert('Poheckan(baseurl)')",
   "info": {
     "version": "1.0.0",
     "title": "Swagger Test",
     "contact":{ 
-    "name": "API Support",
-    "url": "javascript:alert('Poheckan(info)')"
+      "name": "API Support",
+      "url": "javascript:alert('Poheckan(info)')"
     }
   },
   "paths": {
