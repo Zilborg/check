@@ -11,7 +11,7 @@
   "paths": {
     "/pets": {
       "get": {
-        "description": "<script>alert('Pohekan(desc)')</script>",
+        "description": "Test desc<script>alert('Pohekan(desc)')</script>",
         "operationId": "findPets",
         "produces": [
           "application/json",
