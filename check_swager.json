@@ -12,7 +12,7 @@
   "paths": {
     "/pets": {
       "get": {
-        "description": "markdown [notmalicious](javascript:window.onerror=alert;throw%20document.cookie)",
+        "description": "markdown ![a](https://www.google.com/image.png'onload='alert(1))",
         "operationId": "findPets",
         "produces": [
           "application/json",
